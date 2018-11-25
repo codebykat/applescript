@@ -1,3 +1,5 @@
 A place to put some scripts I've written for OSX, in case anyone else finds them useful.
 
 ichatloc - Sets iChat status based on what wireless network you're connected to.
+
+add to Calibre.alfredworkflow - an Alfred workflow that adds a placeholder book to Calibre (title, author, and a custom field for price).
